@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
-- 💬 Ask me about **Data Science**
-
 - 📫 How to reach me **varunpulipati26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
