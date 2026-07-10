@@ -1,27 +1,131 @@
 <h1 align="center">Hi 👋, I'm Varun Pulipati</h1>
-<h3 align="center">A passionate Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunpulipati&label=Profile%20views&color=0e75b6&style=flat" alt="varunpulipati" /> </p>
+<h3 align="center">
+AI Engineer | AI Data Solutions Engineer | GenAI, ML & Data Systems Builder
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunpulipati" alt="varunpulipati" /></a> </p>
-
-- 🔭 I’m currently working on **Snip Master**
-
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
-
-- 📫 How to reach me **varunpulipati26@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varunpulipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunpulipati" height="30" width="40" /></a>
-<a href="https://kaggle.com/varunpulipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="varunpulipati" height="30" width="40" /></a>
+<p align="center">
+I build production-ready GenAI workflows, machine learning models, data pipelines, and API-backed AI products that turn ambiguous business problems into scalable, measurable systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:varunpulipati26@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/varunpulipati/">LinkedIn</a> •
+  <a href="https://github.com/VarunPulipati">GitHub</a> •
+  <a href="YOUR_PORTFOLIO_LINK_HERE">Portfolio</a> •
+  <a href="YOUR_GOOGLE_SCHOLAR_LINK_HERE">Google Scholar</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpulipati&show_icons=true&locale=en&layout=compact" alt="varunpulipati" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunpulipati&show_icons=true&locale=en" alt="varunpulipati" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunpulipati&" alt="varunpulipati" /></p>
+I'm an AI Engineer / AI Data Solutions Engineer with experience building applied ML models, GenAI workflows, data pipelines, and business-facing analytics systems.
+
+My work sits at the intersection of:
+
+- GenAI systems and agent workflows
+- Machine learning and predictive modeling
+- Data engineering and lakehouse pipelines
+- API-backed AI products
+- Technical product ownership and stakeholder-facing delivery
+
+I like building systems that are not just technically interesting, but actually useful for business users, analysts, and decision-makers.
+
+---
+
+## AI Systems I Build
+
+- Agentic SDLC automation workflows
+- LLM-powered analytics tools
+- Recommendation systems
+- Predictive modeling pipelines
+- Data quality and validation systems
+- API-backed AI products
+- Self-service analytics and reporting layers
+
+---
+
+## Featured AI Projects
+
+### Unloop AI  
+AI recommendation product for modeling evolving user preferences.
+
+- Built a behavioral recommendation system using product views, saves, carts, comparisons, and interaction signals
+- Designed interaction-weighted user trajectories and explainable recommendation logic
+- Built with FastAPI, Chrome Extension workflows, APIs, and profile-based recommendation views
+
+---
+
+### Speak2py  
+LLM-powered analytics engine that converts natural language into executable Python and SQL.
+
+- Converts plain-English questions into Pandas and SQL workflows
+- Uses schema-aware prompting, sandboxed execution, validation, and evaluation checks
+- Designed for analysts who want faster access to data without writing code manually
+
+---
+
+### ApplyPilot  
+AI workflow automation platform for job discovery and application workflows.
+
+- Built AI-assisted resume and response generation workflows
+- Used FastAPI, Playwright, LLM workflows, SQLite/Excel tracking, and human-in-the-loop review
+- Focused on workflow reliability, automation checkpoints, and structured tracking
+
+---
+
+## Experience Focus
+
+### AI & Data Solutions Engineering
+
+At RaceTrac, I work across data engineering, applied ML, analytics, and technical delivery.
+
+Key areas:
+
+- Loyalty data ingestion and transformation pipelines
+- SQL, PySpark, Databricks, Delta Lake, Azure ADLS, and ADF
+- Source-to-target mapping, data contracts, canonical models, and validation rules
+- Churn prediction, campaign analytics, retention modeling, forecasting, and anomaly detection
+- Azure AI Foundry agent workflows for SDLC and analytics support
+- Databricks AI/BI Genie and self-service analytics enablement
+- Requirements, user stories, acceptance criteria, UAT, and stakeholder communication
+
+---
+
+## Technical Skills
+
+### AI Engineering  
+Azure AI Foundry, GenAI systems, agent workflows, RAG concepts, prompt engineering, structured output validation, human-in-the-loop review, LLM evaluation, recommendation systems, API-backed AI products
+
+### ML & Modeling  
+Python, Scikit-learn, XGBoost, TensorFlow, PyTorch, feature engineering, propensity modeling, classification, regression, model validation, A/B testing, causal inference, time-series forecasting, anomaly detection
+
+### Data Engineering  
+SQL, PySpark, Databricks, Spark, Delta Lake, Airflow, ETL/ELT pipelines, data quality validation, source-to-target mapping, data contracts, canonical data models, Azure ADLS/ADF, AWS S3/Redshift, Snowflake
+
+### Application, Reporting & Delivery  
+FastAPI, REST APIs, Docker, Git, MLflow, Streamlit, Power BI, Tableau, Databricks AI/BI Genie, KPI dashboards, executive reporting, recurring business reviews, data storytelling, requirements, user stories, acceptance criteria, UAT, Agile/Scrum, Azure DevOps
+
+---
+
+## Publications & Research
+
+- 8 research publications, including 3 first-author papers
+- Best Student Paper recognition at HFES
+- Research experience in AR, motion-capture analytics, fatigue modeling, and applied ML pipelines
+
+---
+
+## Currently Focused On
+
+- Building stronger GenAI and agentic AI systems
+- Improving Unloop AI as a recommendation product
+- Applying AI workflows to analytics, SDLC, and business decision systems
+- Expanding production-ready AI engineering skills
+
+---
+
+<p align="center">
+Open to AI Engineer, Applied AI Engineer, AI Data Solutions Engineer, Forward-Deployed AI, and GenAI product engineering opportunities.
+</p>
